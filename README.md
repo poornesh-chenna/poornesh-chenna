@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on [Spring Boot Project - Employee Management](https://github.com/poornesh-chenna/employee_management_spring)<br>🌱 I’m currently learning Spring, Flutter<br>💬 Here is My [RESUME](https://drive.google.com/file/d/1A7GiH8U8asVV7N9kwSc5vKhUPCTmwjmj/view)<br>📫 How to reach me **poorneshchenna29@gmail.com**
+🔭 I’m currently working on [Spring Boot Project - Employee Management](https://github.com/poornesh-chenna/employee_management_spring)<br>🌱 I’m currently learning Spring, Flutter<br>💬 Here is My [RESUME](https://drive.google.com/file/d/1abeJlhoDgpCp3l2fFC-C4Yl_M1H_-ZLP/view?usp=sharing)<br>📫 How to reach me **poorneshchenna29@gmail.com**
 
 
 ## 🌐 Socials:
